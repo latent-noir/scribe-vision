@@ -1,4 +1,4 @@
-# Scribe Vision
+# 📄👁️ Scribe Vision — Document Reading Engine
 
 **A semi-structured document processing system using OCR and semantic extraction**
 
